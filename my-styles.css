@@ -1,0 +1,39 @@
+* { margin: 0; }
+
+h1 {
+    color: rgb(254, 254, 254);
+    padding-left: 200px;
+    padding-top: 25px;
+}
+
+img {
+    padding-left: 70px;
+}
+
+figcaption {
+    padding-left: 130px;
+}
+
+p {
+    padding-left: 130px;
+}
+
+footer {
+    padding-left: 210px;
+}
+
+.main {
+    width: 100%;
+    max-width: 100%;
+    min-width: 480px;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to right, #3472f8,#cb812d);
+}
+
+.datetime {
+    font-size: 16px;
+    padding: 24px;
+    color:rgb(9, 9, 9);
+}
