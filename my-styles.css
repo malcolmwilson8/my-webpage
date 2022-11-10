@@ -17,13 +17,14 @@ figcaption {
 p {
     padding-left: 130px;
 }
+
 footer {
     padding-left: 210px;
 }
 
 .main {
     width: 100%;
-    max-width: 1920px;
+    max-width: 100%;
     min-width: 480px;
     height: 100vh;
     position: relative;
