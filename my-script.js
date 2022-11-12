@@ -29,5 +29,5 @@ setInterval(() => {
     const now = new Date();
 
     timeElement.textContent =  formatTime(now);
-    dateElement.textContent =  formatdate(now);
+    dateElement.textContent =  formatDate(now);
 }, 200);
